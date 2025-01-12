@@ -37,7 +37,7 @@ Aqui estão os arquivos relacionados aos testes realizados:
 
 ## 🗒️ Registro de Bugs e Melhorias:
 
-- [Arquivo PDF com Registro de Busg e melhorias](https://github.com/Aldaalmeida/Desafio-Quality-Assurance-Lacrei-Sa-de/blob/main/Registro%20de%20Bugs%20e%20Melhorias.pdf)
+- [Arquivo PDF com Registro de Busg e Melhorias](https://github.com/Aldaalmeida/Desafio-Quality-Assurance-Lacrei-Sa-de/blob/main/Registro%20de%20Bugs%20e%20Melhorias.pdf)
 
 
 
