@@ -21,6 +21,7 @@ O foco foi garantir a qualidade dos principais fluxos funcionais, como cadastro,
 
 Será avaliada a compreensão, interpretação e observação para a resolução do desafio proposto. Além da escrita, pensamento crítico e analítico, criatividade, organização e gestão de tempo. 
 
+
 ## 🗒️ Documentação e Execução dos Casos Testes:
 
 Aqui estão os arquivos relacionados aos testes realizados:
@@ -31,13 +32,15 @@ Aqui estão os arquivos relacionados aos testes realizados:
 - [Vídeo Execução Casos de Teste - Edição de perfil da pessoa usuária](https://github.com/Aldaalmeida/Desafio-Quality-Assurance-Lacrei-Sa-de/blob/main/Execu%C3%A7%C3%A3o%20de%20Casos%20de%20Teste%20-%20Edi%C3%A7%C3%A3o%20de%20Perfil%20da%20Pessoa%20Usu%C3%A1ria.mp4)
 - [Vídeo Execução Casos de Teste - Esquecer senha e resetar](https://github.com/Aldaalmeida/Desafio-Quality-Assurance-Lacrei-Sa-de/blob/main/Execu%C3%A7%C3%A3o%20de%20Casos%20de%20Teste%20-%20Esquecer%20Senha%20e%20Resetar.mp4)
 
+
 ## 🗒️ Registro de Bugs e Melhorias:
 
 - [Arquivo PDF com Registro de Busg e melhorias](https://github.com/Aldaalmeida/Desafio-Quality-Assurance-Lacrei-Sa-de/blob/main/Registro%20de%20Bugs%20e%20Melhorias.pdf)
 
+
 ## 🗒️ Documentação de configuração do Ambiente de Testes:
 
-- [Arquivo PDF com Documentação de configuração do Ambiente de Testes]
+- [Arquivo PDF com Documentação de configuração do Ambiente de Testes](https://github.com/Aldaalmeida/Desafio-Quality-Assurance-Lacrei-Sa-de/blob/main/Documenta%C3%A7%C3%A3o%20de%20Configura%C3%A7%C3%A3o%20do%20Ambiente%20de%20Testes.pdf)
 
 
 ## Considerações Finais: 
