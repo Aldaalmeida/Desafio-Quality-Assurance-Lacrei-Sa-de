@@ -27,7 +27,7 @@ Aqui estão os arquivos relacionados aos testes realizados:
 
 - [Arquivo PDF com Casos de Teste](https://github.com/Aldaalmeida/Desafio-Quality-Assurance-Lacrei-Sa-de/blob/main/Documenta%C3%A7%C3%A3o%20Casos%20de%20Teste.pdf)
 - [Vídeo Execução Casos de Teste - Cadastro da pessoa usuária]
-- [Vídeo Execução Casos de Teste - Busca de um profissional de saúde]([https://github.com/seu-usuario/seu-repositorio/raw/main/resultado-teste.mp4](https://github.com/Aldaalmeida/Desafio-Quality-Assurance-Lacrei-Sa-de/blob/main/Execu%C3%A7%C3%A3o%20de%20Casos%20de%20Teste%20-%20Busca%20de%20um%20Profissional%20de%20Sa%C3%BAde.mp4)
+- [Vídeo Execução Casos de Teste - Busca de um profissional de saúde](https://github.com/Aldaalmeida/Desafio-Quality-Assurance-Lacrei-Sa-de/blob/main/Execu%C3%A7%C3%A3o%20de%20Casos%20de%20Teste%20-%20Busca%20de%20um%20Profissional%20de%20Sa%C3%BAde.mp4)
 - [Vídeo Execução Casos de Teste - Edição de perfil da pessoa usuária](https://github.com/Aldaalmeida/Desafio-Quality-Assurance-Lacrei-Sa-de/blob/main/Execu%C3%A7%C3%A3o%20de%20Casos%20de%20Teste%20-%20Edi%C3%A7%C3%A3o%20de%20Perfil%20da%20Pessoa%20Usu%C3%A1ria.mp4)
 - [Vídeo Execução Casos de Teste - Esquecer senha e resetar](https://github.com/Aldaalmeida/Desafio-Quality-Assurance-Lacrei-Sa-de/blob/main/Execu%C3%A7%C3%A3o%20de%20Casos%20de%20Teste%20-%20Esquecer%20Senha%20e%20Resetar.mp4)
 
